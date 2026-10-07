@@ -1,13 +1,17 @@
-  
-  <p>
-    <a href="https://linkedin.com/in/mheftu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://wwww.muhittinefecanturk.com"><img src="https://img.shields.io/badge/Portfolio-121212?style=flat-square&logo=globe&logoColor=white" alt="Website"/></a>
-    <a href="mailto:mefecanturk09@icloud.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-  </p>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhittinefecan-turk/muhittinefecan-turk/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhittinefecan-turk/muhittinefecan-turk/main/light.svg">
+  <img alt="Muhittin Efecan Türk" src="https://raw.githubusercontent.com/muhittinefecan-turk/muhittinefecan-turk/main/light.svg">
+</picture>
 
-<br />
+<!-- ===== SOCIAL BADGES & LINKS ===== -->
+<p align="left">
+  <a href="https://linkedin.com/in/mheftu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.muhittinefecanturk.com"><img src="https://img.shields.io/badge/Portfolio-121212?style=flat-square&logo=globe&logoColor=white" alt="Website"/></a>
+  <a href="mailto:mefecanturk09@icloud.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
+<!-- ===== EXECUTIVE SUMMARY ===== -->
 ### 👨‍💻 Executive Summary
 A dedicated **Full-Stack Engineer** focused on building high-performance web applications, scalable backend systems, desktop solutions, and automation architectures. Experienced in full lifecycle software development, client-server communication, and modern UI/UX workflows.
 
@@ -17,6 +21,7 @@ A dedicated **Full-Stack Engineer** focused on building high-performance web app
 
 ---
 
+<!-- ===== TECH STACK ===== -->
 ### 🛠️ Tech Stack & Ecosystem
 
 <p align="left">
@@ -32,6 +37,9 @@ A dedicated **Full-Stack Engineer** focused on building high-performance web app
 
 ---
 
+<!-- ===== GITHUB STATS & ANALYTICS ===== -->
 <div align="center">
-  <sub>Built with precision. Powered by Open Source.</sub>
-</div>
+
+<!-- Streak — full width -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="
