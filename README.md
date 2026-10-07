@@ -1,5 +1,10 @@
+# Hello, I'm Muhittin Efe Can Türk 👋
+
+[![GitHub](https://img.shields.io/badge/GitHub-muhittinefecan-turk-181717?logo=github)](https://github.com/muhittinefecan-turk)
+
+[![Repo](https://img.shields.io/badge/Repo-muhittinefecanturk-0A66C2)](https://github.com/muhittinefecan-turk/muhittinefecanturk)
 <div align="center">
-  <h1>Hi, I'm <a href="https://your-portfolio.com">Efecan</a> 🚀</h1>
+  <h1>Hi, I'm <a href="https://muhittinefecanturk.com">Efecan</a> 🚀</h1>
   <p><strong>Full-Stack Software Engineer & Digital Content Creator</strong></p>
   
   <p>
