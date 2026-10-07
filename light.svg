@@ -29,7 +29,7 @@
 <text x="38" y="74" font-size="10" letter-spacing="3" fill="#94A3B8">GÖRSEL.HARİTA</text>
 <rect x="36" y="84" width="400" height="492" rx="10" fill="none" stroke="#00D9FF" stroke-width="2" opacity="0.45" filter="url(#glow3)"/>
 <rect x="36" y="84" width="400" height="492" rx="10" fill="#F8FAFC" stroke="rgba(0,169,199,0.34)"/>
-<image href="https://instagram.fist2-2.fna.fbcdn.net/v/t51.82787-19/662116858_18569677213024117_6766324551519855152_n.jpg?_nc_cat=105&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44OTYuQzIifQ%3D%3D&_nc_ohc=mYpTOah6YssQ7kNvwHwLe_8&_nc_oc=AdoOgmfJGY2ui4i0eG12GGfxHkddR7hB9T72un7SQ7U0UOcGLgT7vVbA1SJJxxqh9J8&_nc_zt=24&_nc_ht=instagram.fist2-2.fna&_nc_gid=hekyY-1G1MR1cUez4XY9Rw&_nc_ss=7b6a8&oh=00_AQPv4KkgIaj1PXp_xlxtf3Qqgxh8sKzEXesyIpqprxcaMQ&oe=6ACC15E6" x="52" y="105" width="368" height="450" preserveAspectRatio="xMidYMid slice" opacity="0.96"/>
+<image href="./pp.jpg" x="52" y="105" width="368" height="450" preserveAspectRatio="xMidYMid slice" opacity="0.96"/>
 
 <g transform="translate(50,86) scale(1.2400,1.4471)" fill="#A855F7" shape-rendering="crispEdges" opacity="0.28">
 <set attributeName="opacity" to="0" begin="3.2s"/>
