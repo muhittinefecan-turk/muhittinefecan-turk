@@ -1,0 +1,44 @@
+[
+  {
+    "name": "GEFOK Gallery",
+    "repo": "muhittinefecan-turk/gefok-galeri",
+    "icons": ["js", "nodejs", "express", "html", "css"],
+    "description": "Photography club web application and administration platform",
+    "tags": ["JavaScript", "NodeJS", "Express"]
+  },
+  {
+    "name": "Chicken Trade",
+    "repo": "muhittinefecan-turk/chickensmp-trade",
+    "icons": ["nodejs", "express", "nginx", "js"],
+    "description": "Web-based trading platform integrated with Discord authentication",
+    "tags": ["NodeJS", "Express", "Nginx"]
+  },
+  {
+    "name": "NexusBot",
+    "repo": "muhittinefecan-turk/nexus-bot",
+    "icons": ["js", "nodejs", "discord"],
+    "description": "Modular Discord moderation, anti-raid, and management architecture",
+    "tags": ["JavaScript", "DiscordJS", "NodeJS"]
+  },
+  {
+    "name": "Lunexia Launcher",
+    "repo": "muhittinefecan-turk/lunexia-network",
+    "icons": ["electron", "nodejs", "nginx"],
+    "description": "Custom desktop launcher with Discord Rich Presence integration",
+    "tags": ["Electron", "NodeJS", "Nginx"]
+  },
+  {
+    "name": "Airdrop Tracker",
+    "repo": "muhittinefecan-turk/airdrop-tracker",
+    "icons": ["electron", "ts", "sqlite"],
+    "description": "Desktop intelligence client tracking crypto airdrops across social feeds",
+    "tags": ["Electron", "TypeScript", "SQLite"]
+  },
+  {
+    "name": "MCA Region Parser",
+    "repo": "muhittinefecan-turk/mca-region-parser",
+    "icons": ["python"],
+    "description": "Automated Python scanner using multiprocessing and NBT parsing for Minecraft region files",
+    "tags": ["Python", "Multiprocessing", "NBT"]
+  }
+]
