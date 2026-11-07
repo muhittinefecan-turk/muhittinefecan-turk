@@ -17,7 +17,6 @@
   <img src="./light.svg" alt="Muhittin Efecan Türk — Full-Stack Developer profil kartı" width="100%">
 </picture>
 
-> **Profil görseli:** SVG içindeki `PROFİL GÖRSELİ ALANI` yorumunu bulup kendi görsel URL'ni ekleyebilirsin.
 
 ---
 
